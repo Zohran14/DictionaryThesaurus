@@ -1,0 +1,1 @@
+export const questions = [{question: 'Famous celebrity', answers: ['tom cruise', 'madonna', 'pele', 'connon'], correct: 'tom cruise'}, {question: '4+2', answers: ['6', '4', '10', '15', '17'], correct: "6"}, {question: "3+5", answers: ['8', '9', '7', '6'], correct: '8'}];

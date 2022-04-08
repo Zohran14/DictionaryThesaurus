@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/DictionaryThesaurus/static/css/main.6c72a113.css",
-    "main.js": "/DictionaryThesaurus/static/js/main.b64cc269.js",
+    "main.css": "/DictionaryThesaurus/static/css/main.d72e9a77.css",
+    "main.js": "/DictionaryThesaurus/static/js/main.265f8640.js",
     "static/js/738.02268a77.chunk.js": "/DictionaryThesaurus/static/js/738.02268a77.chunk.js",
     "static/js/858.24c0b2a0.chunk.js": "/DictionaryThesaurus/static/js/858.24c0b2a0.chunk.js",
     "static/js/372.96734fa9.chunk.js": "/DictionaryThesaurus/static/js/372.96734fa9.chunk.js",
@@ -14,10 +14,11 @@
     "static/js/573.bbecec6d.chunk.js": "/DictionaryThesaurus/static/js/573.bbecec6d.chunk.js",
     "static/js/377.30788725.chunk.js": "/DictionaryThesaurus/static/js/377.30788725.chunk.js",
     "static/media/Poppins-Regular.ttf": "/DictionaryThesaurus/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Lato-Regular.ttf": "/DictionaryThesaurus/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
     "service-worker.js": "/DictionaryThesaurus/service-worker.js",
     "index.html": "/DictionaryThesaurus/index.html",
-    "main.6c72a113.css.map": "/DictionaryThesaurus/static/css/main.6c72a113.css.map",
-    "main.b64cc269.js.map": "/DictionaryThesaurus/static/js/main.b64cc269.js.map",
+    "main.d72e9a77.css.map": "/DictionaryThesaurus/static/css/main.d72e9a77.css.map",
+    "main.265f8640.js.map": "/DictionaryThesaurus/static/js/main.265f8640.js.map",
     "738.02268a77.chunk.js.map": "/DictionaryThesaurus/static/js/738.02268a77.chunk.js.map",
     "858.24c0b2a0.chunk.js.map": "/DictionaryThesaurus/static/js/858.24c0b2a0.chunk.js.map",
     "372.96734fa9.chunk.js.map": "/DictionaryThesaurus/static/js/372.96734fa9.chunk.js.map",
@@ -31,7 +32,7 @@
     "377.30788725.chunk.js.map": "/DictionaryThesaurus/static/js/377.30788725.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c72a113.css",
-    "static/js/main.b64cc269.js"
+    "static/css/main.d72e9a77.css",
+    "static/js/main.265f8640.js"
   ]
 }

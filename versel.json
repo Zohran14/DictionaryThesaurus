@@ -1,5 +1,8 @@
 {
-  "rewrites":  [
-    { "source": "/", "destination": "/index.html"}, {"source":"/dictionary", "destination": "/index.html"}, {"source":"/thesaurus", "destination": "/index.html"}
-  ]
+    "rewrites": [
+		{
+			"source": "/(.*)",
+			"destination": "/index.html"
+		}
+	]
 }
